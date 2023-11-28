@@ -1,7 +1,7 @@
 # Data-Workshop-with-Python
-This is the workshop of datascience with python . here we do the project of To trace the flight path of aircraft.
+The workshop of Datascience with Python.
 
- 3 Days Data-Science & Analytics Workshop 
+ #3 Days Data-Science & Analytics Workshop 
 
 ## In the workshop organized and conducted by CODERS READY, we explored the power of mapping and data visualization using Python. Over the course of three days, we engaged in hands-on projects that allowed us to gain valuable insights into data representation and analysis. Basically, we learnt about some applications in field of aviation using python.
 
